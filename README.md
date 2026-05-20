@@ -1,6 +1,7 @@
 # Minecraft Alpha 0.0.0
 
-9768291-2ifec9ht-v4.webp
+<img width="600" height="338" alt="17792421161382913118030322534106" src="https://github.com/user-attachments/assets/0c868dc5-a488-4a42-8dc1-eeb229a31cf8" />
+
 
 🧪 A mysterious and nostalgic Minecraft Alpha-style project inspired by old lost versions, glitches, and creepy retro vibes.
 
