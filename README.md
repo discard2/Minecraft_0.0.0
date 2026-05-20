@@ -43,4 +43,5 @@ Made by blueNova_MC
 ## 📜 Disclaimer
 This is a fan-made project and is not affiliated with Mojang or Minecraft.
 
-<img width="800" height="412" alt="17792432987498110135281816910951" src="https://github.com/user-attachments/assets/118d8b9d-c1dd-4975-9150-710132b653cc" />
+
+<img width="1279" height="721" alt="1779243404943178068985248904531" src="https://github.com/user-attachments/assets/62e72ea1-ba6e-4dd2-a573-d46ec3e8d386" />
