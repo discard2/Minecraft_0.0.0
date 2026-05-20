@@ -43,7 +43,7 @@ Made by blueNova_MC
 ## 📜 Disclaimer
 This is a fan-made project and is not affiliated with Mojang or Minecraft.
 <audio controls>
-  <source src="Deathscream.mp3.mpeg (2).mp3" type="audio/mpeg">
+  <source src="Deathscream.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
 
