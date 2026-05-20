@@ -42,4 +42,8 @@ Made by blueNova_MC
 
 ## 📜 Disclaimer
 This is a fan-made project and is not affiliated with Mojang or Minecraft.
-https://autonomous-pink-0u2xmvrnib.edgeone.app/Deathscream.mp3.mpeg%20(1).mp3
+<audio controls>
+  <source src="https://autonomous-pink-0u2xmvrnib.edgeone.app/Deathscream.mp3.mpeg%20(1).mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
