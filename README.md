@@ -47,3 +47,10 @@ This is a fan-made project and is not affiliated with Mojang or Minecraft.
   Your browser does not support the audio element.
 </audio>
 
+## 🔊 Sounds
+
+Deathscream Sound:
+https://autonomous-pink-0u2xmvrnib.edgeone.app/Deathscream.mp3.mpeg%20(1).mp3
+
+Used for the creepy horror atmosphere of Minecraft Alpha 0.0.0.
+Recommended for jumpscares, ambient events, or corrupted entity encounters.
