@@ -42,16 +42,5 @@ Made by blueNova_MC
 
 ## 📜 Disclaimer
 This is a fan-made project and is not affiliated with Mojang or Minecraft.
-<audio controls>
-  <source src="Deathscream.mp3" type="audio/mpeg">
-  Your browser does not support the audio element.
-</audio>
 
-<h2>🔊 Deathscream Sound</h2>
-
-<audio controls autoplay loop>
-  <source src="Deathscream.mp3" type="audio/mpeg">
-  Your browser does not support the audio element.
-</audio>
-
-<p>Creepy horror sound used for Minecraft Alpha 0.0.0.</p>
+<img width="800" height="412" alt="17792432987498110135281816910951" src="https://github.com/user-attachments/assets/118d8b9d-c1dd-4975-9150-710132b653cc" />
